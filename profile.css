@@ -1,0 +1,24 @@
+body{
+    background-image: url("ImageFolder/pexels-ricardo-esquivel-12340883.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display:block;
+}
+
+.profile-header{
+    display:flex;
+    justify-content: space-between;
+}
+.container{
+    border:  solid black;
+    margin-top:10px;
+}
+.container2{
+    border:  solid black;
+    margin-top:10px;
+}
+.container3{
+    border:  solid black;
+    margin-top:10px;
+}
